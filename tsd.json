@@ -1,0 +1,84 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "react/react-dom.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "react/react-addons-perf.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "react/react-addons-linked-state-mixin.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "react/react-addons-transition-group.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "react/react-global.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "react/react-addons-css-transition-group.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "react/react-addons-create-fragment.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "react/react-addons-pure-render-mixin.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "react/react.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "react/react-addons-test-utils.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "react/react-addons-update.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "source-map/source-map.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "uglify-js/uglify-js.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "webpack/webpack.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "karma/karma.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "bluebird/bluebird.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "mime/mime.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "express/express.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "log4js/log4js.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "node/node.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "mocha/mocha.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "chai/chai.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "assertion-error/assertion-error.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    },
+    "sinon/sinon.d.ts": {
+      "commit": "30f7d933257db38e4f3273d7ccc8fddfd0be9a9f"
+    }
+  }
+}
